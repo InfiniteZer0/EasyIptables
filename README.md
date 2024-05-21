@@ -39,6 +39,6 @@
 
 Запустите скрипт с правами суперпользователя:
 ```bash
-sudo python3 easy_iIptables.py
+sudo python3 easy_iptables.py
 
 
