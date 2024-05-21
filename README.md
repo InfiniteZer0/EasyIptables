@@ -24,8 +24,8 @@
 
 1. Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/yourusername/iptables-manager.git
-    cd iptables-manager
+    git clone https://github.com/InfiniteZer0/EasyIptables
+    cd EasyIptables
     ```
 
 2. Запустите скрипт установки:
@@ -39,6 +39,6 @@
 
 Запустите скрипт с правами суперпользователя:
 ```bash
-sudo python3 iptables_manager.py
+sudo python3 easy_iIptables.py
 
 
